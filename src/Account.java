@@ -1,5 +1,5 @@
 public class Account {
-    private static int balance = 1000;
+    private static int balance = 10001;
     private int number;
 
     public Account(int number) {
